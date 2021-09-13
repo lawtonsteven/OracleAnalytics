@@ -1,0 +1,32 @@
+{
+  "workshoptitle": "SailGP Workshop",
+  "help": "livelabs-help-analytics_us@oracle.com”",
+  "tutorials": [
+    {
+      "title": "Introduction",
+      "description": "SailGP is like Formula 1 on the water: the boats race over the water at speeds of up to 50 knots (60 m/h, 90 km/h).",
+      "filename": "../../intro/intro.md"
+    },
+    {
+      "title": "Lab 1: Analytics: Basic Statistics",
+      "filename": "../../analytics/analytics.md"
+    },
+    {
+      "title": "Lab 2: Analytics: The Start of the Race",
+      "filename": "../../analytics2/analytics2.md"
+    },
+    {
+      "title": "Lab 3: Analytics: Maneuvers",
+      "filename": "../../analytics3/analytics3.md"
+    },
+    {
+      "title": "Lab 4: Machine Learning",
+      "filename": "../../ml/ml.md"
+    },
+    {
+      "title": "Need Help?",
+      "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+      "filename": "https://raw.githubusercontent.com/oracle/learning-library/master/common/labs/need-help/need-help-freetier.md"
+    }
+  ]
+}
