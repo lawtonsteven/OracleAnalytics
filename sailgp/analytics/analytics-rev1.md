@@ -31,7 +31,7 @@ This lab assumes you have:
 
 
 
-## Task 1: Find out Who the Winners of the Race Are
+## Task 1: Find The Race Winners
 
 1. Create a new Oracle Analytics Cloud Project by selecting Create and Project
 
