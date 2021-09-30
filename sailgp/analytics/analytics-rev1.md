@@ -80,7 +80,7 @@ This lab assumes you have:
 
    You can see that the boats that finished last were France and Denmark, we will now compare France and Denmark to Great Britain to see how they are different. Hopefully we will find some indicators on where France and Denmark can make improvements.
 
-## Task 4: Compare Maximum Boat Speeds
+## Task 2: Compare Maximum Boat Speeds
 
 1. Find out which teams are able to obtain the maximum boat speed.
 
@@ -107,7 +107,7 @@ This lab assumes you have:
 
    ![pic2](images/conclusion.png)
 
-## Task 5: Investigate How Much the Teams Are Foiling
+## Task 3: Investigate How Much the Teams Are Foiling
 
 1. Introduction
 
